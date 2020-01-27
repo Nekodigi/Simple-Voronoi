@@ -3,6 +3,8 @@
 Voronoi_Simple
 Voronoi_Visual
 Voronoi_A_Star 
+Voronoi_DXF
+Voronoi_Anim
 You are free to use
 
 ### Made by Yuuhei Morita. Look at the homepage.
