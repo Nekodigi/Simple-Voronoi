@@ -1,4 +1,4 @@
-# Voronoi
+# Simple Voronoi
 Voronoi<bc>
 ![](https://github.com/Nekodigi/Images/blob/master/2019/Voronoi.png)
 Delaunay<br>
